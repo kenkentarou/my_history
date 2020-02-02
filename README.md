@@ -4,9 +4,9 @@
 
 ```
 User.new(
-  name:        'kentaro dai（だいさん）',
-  age:          31,
-  hobbies:      '野球'
+  name:     'kentaro dai（だいさん）',
+  age:    　 31,
+  hobbies:  '野球'
 }
 ```
 
