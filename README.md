@@ -3,7 +3,7 @@
 ## プロフィール
 
 ```
-User.new(
+User.create(
   name:     'kentaro dai（だいさん）',
   age:    　 31,
   hobbies:  '野球'
