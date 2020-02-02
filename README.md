@@ -29,6 +29,14 @@ end
 
 そのほか、独学で、WordPressのサイト構築、副業で参画したweb系スタートアップでの簡単なissue対応でPHPなどを少し触る。
 
+## 運営メディア(ブログ)
+- https://g-suento-1025.com/
+- https://ikikata-media.biz/
+
+## 共同でLINE@運営中
+- https://line.me/R/ti/p/%40azp3845s
+
+---
 
 ## スキル
 
