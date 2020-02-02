@@ -57,7 +57,7 @@ end
 - MySQL
 
 ### インフラ
-- AWS(VPN, EC2, S3, Route53)
+- AWS(VPC, EC2, S3, Route53)
 - Heroku
 
 ### その他触ったことのある言語やフレームワーク、ツールなど
