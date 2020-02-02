@@ -61,6 +61,7 @@ end
 - Heroku
 
 ### その他触ったことのある言語やフレームワーク、ツールなど
+- Git
 - Vue/Vuex
 - WebPack
 - Capistrano
