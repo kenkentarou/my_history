@@ -30,6 +30,10 @@ end
 
 そのほか、独学で、WordPressのサイト構築、副業で参画したweb系スタートアップでの簡単なissue対応でPHPなどを少し触る。
 
+## Qiita
+
+https://qiita.com/kenkentarou
+
 ## 運営メディア(ブログ)
 - https://g-suento-1025.com/
 - https://ikikata-media.biz/
