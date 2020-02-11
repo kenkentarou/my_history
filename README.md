@@ -26,7 +26,7 @@ end
 2019年10月から本格的にプログラミングの世界へ。
 株式会社スタートアップテクノロジーが運営する中級者向けプログラミングスクール「RUNTEQ」にて、実践的な学習。
 
-主に、Ruby on rails,HTML,CSS,JavaScript,MySQL,AWS(VPN, EC2, S3, Route53)などを習得。
+主に、Ruby on rails,HTML,CSS,JavaScript,MySQL,AWS(VPC, EC2, S3, Route53)などを習得。
 
 そのほか、独学で、WordPressのサイト構築、副業で参画したweb系スタートアップでの簡単なissue対応でPHPなどを少し触る。
 
@@ -71,6 +71,7 @@ https://qiita.com/kenkentarou
 - Docker
 - Redis
 - Sidekiq
+- ajax
 
 ---
 
