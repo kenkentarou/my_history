@@ -30,7 +30,7 @@ end
 
 そのほか、独学で、WordPressのサイト構築、副業で参画したweb系スタートアップでの簡単なissue対応でPHPなどを少し触る。
 
-## Qiita
+## Qiita（技術記事多数執筆）
 
 https://qiita.com/kenkentarou
 
@@ -72,6 +72,7 @@ https://qiita.com/kenkentarou
 - Redis
 - Sidekiq
 - ajax
+- CircleCI 
 
 ---
 
