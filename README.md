@@ -69,13 +69,16 @@ https://www.wantedly.com/user/profile/edit
 
 ### その他触ったことのある言語やフレームワーク、ツールなど
 - Git
-- AWS Cloud9
+- Vue/Vuex
+- ajax
 - WebPack
 - Capistrano
 - Docker
 - Redis
 - Sidekiq
-- ajax
+- cron(whenever)
+- pundit
+- AWS Cloud9
 - CircleCI 
 
 ---
